@@ -7,3 +7,7 @@
   rows: 7
   cols: 11
   type: table
+- path: 2021_02_07_tour_area_41_normal
+  name: 2021_02_07_tour_area_41_normal
+  extension: png
+  type: files
