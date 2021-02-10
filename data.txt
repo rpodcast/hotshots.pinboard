@@ -1,1 +1,4 @@
-[]
+- path: 2021_02_07_tour_marina_normal
+  name: 2021_02_07_tour_marina_normal
+  extension: png
+  type: files
