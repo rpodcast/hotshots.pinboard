@@ -20,3 +20,7 @@
   rows: 7
   cols: 11
   type: table
+- path: 2021-02-07-tour-marina-normal
+  name: 2021-02-07-tour-marina-normal
+  extension: png
+  type: files
