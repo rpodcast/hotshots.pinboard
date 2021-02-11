@@ -15,3 +15,8 @@
   name: 2021_02_10_tour_temple_drive_normal
   extension: png
   type: files
+- path: hotshots_race_results_latest
+  name: hotshots_race_results_latest
+  rows: 7
+  cols: 11
+  type: table

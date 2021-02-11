@@ -1,0 +1,21 @@
+path:
+- data.csv
+- data.rds
+rows: 7
+cols: 11
+columns:
+  driver: character
+  car: character
+  track: character
+  direction: character
+  grand_prix: character
+  date: Date
+  position: integer
+  player_name: character
+  player_time: character
+  points: numeric
+  screenshot_link: glue
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
