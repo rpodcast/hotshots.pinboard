@@ -28,3 +28,7 @@
   name: 2021-02-07-tour-area_41-normal
   extension: png
   type: files
+- path: 2021-02-07-tour-temple_drive-normal
+  name: 2021-02-07-tour-temple_drive-normal
+  extension: png
+  type: files
