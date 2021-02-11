@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 49
+rows: 56
 cols: 11
 columns:
   driver: character
