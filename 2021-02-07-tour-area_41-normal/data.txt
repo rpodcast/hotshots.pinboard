@@ -1,0 +1,5 @@
+path: 2021-02-07-tour-area_41-normal.png
+extension: png
+type: files
+filenames:
+  2021-02-07-tour-area_41-normal.png: 2021-02-07-tour-area_41-normal.png

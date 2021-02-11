@@ -24,3 +24,7 @@
   name: 2021-02-07-tour-marina-normal
   extension: png
   type: files
+- path: 2021-02-07-tour-area_41-normal
+  name: 2021-02-07-tour-area_41-normal
+  extension: png
+  type: files
