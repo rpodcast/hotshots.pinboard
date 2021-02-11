@@ -52,3 +52,7 @@
   name: 2021-02-07-tour-temple_drive-mirrored
   extension: png
   type: files
+- path: 2021-02-07-tour-castle_funfair-mirrored
+  name: 2021-02-07-tour-castle_funfair-mirrored
+  extension: png
+  type: files
