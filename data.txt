@@ -116,3 +116,7 @@
   name: 2021_gp1-2021-02-14-pro_circuit-royal_roadway-mirrored
   extension: png
   type: files
+- path: 2021_gp1-2021-02-21-racing_elite-dino_dash-normal
+  name: 2021_gp1-2021-02-21-racing_elite-dino_dash-normal
+  extension: png
+  type: files
