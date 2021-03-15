@@ -1,0 +1,5 @@
+path: 2021_gp1-2021-02-07-tour-area_41-mirrored.png
+extension: png
+type: files
+filenames:
+  2021_gp1-2021-02-07-tour-area_41-mirrored.png: 2021_gp1-2021-02-07-tour-area_41-mirrored.png

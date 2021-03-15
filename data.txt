@@ -76,3 +76,7 @@
   name: 2021_gp1-2021-02-07-tour-marina-mirrored
   extension: png
   type: files
+- path: 2021_gp1-2021-02-07-tour-area_41-mirrored
+  name: 2021_gp1-2021-02-07-tour-area_41-mirrored
+  extension: png
+  type: files
