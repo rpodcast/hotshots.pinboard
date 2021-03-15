@@ -184,3 +184,7 @@
   name: 2021_gp1-2021-03-07-boss_level-8_ball_highway-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-03-07-boss_level-8_ball_highway-normal
+  name: 2021_gp1-2021-03-07-boss_level-8_ball_highway-normal
+  extension: png
+  type: files
