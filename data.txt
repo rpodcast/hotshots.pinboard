@@ -200,3 +200,7 @@
   name: 2021_gp1-2021-03-07-boss_level-frozen_freeway-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-03-07-boss_level-surf_city-mirrored
+  name: 2021_gp1-2021-03-07-boss_level-surf_city-mirrored
+  extension: png
+  type: files
