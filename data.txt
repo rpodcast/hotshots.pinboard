@@ -124,3 +124,7 @@
   name: 2021_gp1-2021-02-21-racing_elite-heated_highway-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-02-21-racing_elite-alpine_town-normal
+  name: 2021_gp1-2021-02-21-racing_elite-alpine_town-normal
+  extension: png
+  type: files
