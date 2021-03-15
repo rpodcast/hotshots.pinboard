@@ -120,3 +120,7 @@
   name: 2021_gp1-2021-02-21-racing_elite-dino_dash-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-02-21-racing_elite-heated_highway-normal
+  name: 2021_gp1-2021-02-21-racing_elite-heated_highway-normal
+  extension: png
+  type: files
