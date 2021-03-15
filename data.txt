@@ -176,3 +176,7 @@
   name: 2021_gp1-2021-02-28-hotshot-downtown-mirrored
   extension: png
   type: files
+- path: 2021_gp1-2021-02-28-hotshot-sea_view-mirrored
+  name: 2021_gp1-2021-02-28-hotshot-sea_view-mirrored
+  extension: png
+  type: files
