@@ -11,7 +11,7 @@ columns:
   direction: character
   grand_prix: character
   date: Date
-  position: numeric
+  position: integer
   player_name: character
   player_time: character
   points: numeric
