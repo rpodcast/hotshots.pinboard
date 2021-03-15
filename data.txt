@@ -56,3 +56,7 @@
   name: 2021-02-07-tour-castle_funfair-mirrored
   extension: png
   type: files
+- path: 2021_gp1-2021-02-07-tour-marina-normal
+  name: 2021_gp1-2021-02-07-tour-marina-normal
+  extension: png
+  type: files
