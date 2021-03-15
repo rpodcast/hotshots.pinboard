@@ -136,3 +136,7 @@
   name: 2021_gp1-2021-02-21-racing_elite-dino_dash-mirrored
   extension: png
   type: files
+- path: 2021_gp1-2021-02-21-racing_elite-heated_highway-mirrored
+  name: 2021_gp1-2021-02-21-racing_elite-heated_highway-mirrored
+  extension: png
+  type: files
