@@ -2,8 +2,9 @@ path:
 - data.csv
 - data.rds
 rows: 7
-cols: 11
+cols: 12
 columns:
+  season: character
   driver: character
   car: character
   track: character
