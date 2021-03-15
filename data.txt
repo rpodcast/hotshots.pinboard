@@ -152,3 +152,7 @@
   name: 2021_gp1-2021-02-28-hotshot-ski_paradise-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-02-28-hotshot-temple_ruins-normal
+  name: 2021_gp1-2021-02-28-hotshot-temple_ruins-normal
+  extension: png
+  type: files
