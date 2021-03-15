@@ -68,3 +68,7 @@
   name: 2021_gp1-2021-02-07-tour-temple_drive-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-02-07-tour-castle_funfair-normal
+  name: 2021_gp1-2021-02-07-tour-castle_funfair-normal
+  extension: png
+  type: files
