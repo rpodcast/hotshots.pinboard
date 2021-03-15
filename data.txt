@@ -17,7 +17,7 @@
   type: files
 - path: hotshots_race_results_latest
   name: hotshots_race_results_latest
-  rows: 8
+  rows: 7
   cols: 12
   type: table
 - path: 2021-02-07-tour-marina-normal
