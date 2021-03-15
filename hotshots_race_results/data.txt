@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 300
+rows: 293
 cols: 12
 columns:
   season: character
@@ -15,7 +15,7 @@ columns:
   player_name: character
   player_time: character
   points: numeric
-  screenshot_link: glue
+  screenshot_link: character
 type: table
 filenames:
   data.csv: data.csv
