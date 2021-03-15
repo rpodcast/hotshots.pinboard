@@ -192,3 +192,7 @@
   name: 2021_gp1-2021-03-07-boss_level-surf_city-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-03-07-boss_level-cargo_chaos-normal
+  name: 2021_gp1-2021-03-07-boss_level-cargo_chaos-normal
+  extension: png
+  type: files
