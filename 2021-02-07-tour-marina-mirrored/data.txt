@@ -1,5 +1,0 @@
-path: 2021-02-07-tour-marina-mirrored.png
-extension: png
-type: files
-filenames:
-  2021-02-07-tour-marina-mirrored.png: 2021-02-07-tour-marina-mirrored.png

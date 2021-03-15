@@ -1,5 +1,0 @@
-path: 2021-02-07-tour-castle_funfair-normal.png
-extension: png
-type: files
-filenames:
-  2021-02-07-tour-castle_funfair-normal.png: 2021-02-07-tour-castle_funfair-normal.png
