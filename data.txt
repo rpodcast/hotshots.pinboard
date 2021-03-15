@@ -92,3 +92,7 @@
   name: 2021_gp1-2021-02-14-pro_circuit-boneyard-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-02-14-pro_circuit-fossil_cave-normal
+  name: 2021_gp1-2021-02-14-pro_circuit-fossil_cave-normal
+  extension: png
+  type: files
