@@ -132,3 +132,7 @@
   name: 2021_gp1-2021-02-21-racing_elite-casino_run-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-02-21-racing_elite-dino_dash-mirrored
+  name: 2021_gp1-2021-02-21-racing_elite-dino_dash-mirrored
+  extension: png
+  type: files
