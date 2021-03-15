@@ -172,3 +172,7 @@
   name: 2021_gp1-2021-02-28-hotshot-temple_ruins-mirrored
   extension: png
   type: files
+- path: 2021_gp1-2021-02-28-hotshot-downtown-mirrored
+  name: 2021_gp1-2021-02-28-hotshot-downtown-mirrored
+  extension: png
+  type: files
