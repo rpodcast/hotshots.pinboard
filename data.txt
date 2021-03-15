@@ -4,7 +4,7 @@
   type: files
 - path: hotshots_race_results
   name: hotshots_race_results
-  rows: 293
+  rows: 300
   cols: 12
   type: table
 - path: 2021_02_07_tour_area_41_normal
