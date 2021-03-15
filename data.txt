@@ -100,3 +100,7 @@
   name: 2021_gp1-2021-02-14-pro_circuit-ocean_world-normal
   extension: png
   type: files
+- path: 2021_gp1-2021-02-14-pro_circuit-boneyard-mirrored
+  name: 2021_gp1-2021-02-14-pro_circuit-boneyard-mirrored
+  extension: png
+  type: files
